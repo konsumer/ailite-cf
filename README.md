@@ -1,6 +1,6 @@
 # ailite-cf
 
-Cloudflare Worker + ESP32 firmware for an AI voice assistant on the [AI-Lite](https://www.elecrow.com/ai-lite-esp32-s3-ai-development-board.html) device.
+Cloudflare Worker + ESP32 firmware for an AI voice assistant on the [AI-Lite](https://aipi.com/products/aipi-lite) device.
 
 Hold the button, speak, get a spoken response. All AI runs on Cloudflare — no external API keys needed.
 
